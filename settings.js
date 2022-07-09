@@ -28,14 +28,14 @@ global.ownername= "︎ᴹᴿ᭄ 𝔸𝕟𝕕𝕙𝕪𝕔𝕒𝔾𝕒𝕟𝕫ོ 
 global.myweb ="https://instagram.com/andhycarsrofficial?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCtt_8qM9i8x83BY_U8oozOg" //bebas asal jan hapus
 global.github = "https://github.com/biribiri" //bebas
-global.email = "AndhycaBotz@gmail.com" //bebas
+global.email = "berhasilyh@gmail.com" //bebas
 global.region = "Korea Selatan" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285872761910","6285794408499","62895330584590"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285872761910","6285794408498" // nomor wa kalian
-global.ownernomerr = "+6285872761910","+6285794408499" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.owner = ["6285872761910","6285794408499","6287829536442"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285872761910","6285794408498","6287829536442" // nomor wa kalian
+global.ownernomerr = "+6285872761910","+6285794408499","+6287829536442" //nmr wa kalian
+global.thumbnail = "./image/loli.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donati.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© AndhycaBotz-Mdོ' //sticker wm ubah
